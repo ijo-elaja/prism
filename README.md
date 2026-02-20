@@ -14,7 +14,7 @@ This project is not currently accepting feature requests or contributions, but f
 
 ### Linux
 
-First, make sure you have (https://github.com/raysan5/raylib)[raylib] installed. Then, clone the repository:
+First, make sure you have [https://github.com/raysan5/raylib](raylib) installed. Then, clone the repository:
 
 ```bash
 git clone https://github.com/ijo-elaja/prism.git
