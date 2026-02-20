@@ -39,8 +39,9 @@ ninja
 
 ### Windows & MacOS
 
-Prism has only been tested on Linux, so there may be some issues when building on Windows. 
-If you encounter any problems, please open an issue.
+Prism was only developed for Linux, and it likely will not work properly on Windows or MacOS.
+
+I may or may not add support for non-Linux platforms in the future.
 
 ## Usage
 
